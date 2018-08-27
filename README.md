@@ -74,7 +74,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
   - Sections 1. Start the Environment
   - Section 7. Demo play
 
-## Read some explanations&
+## Read some explanations
 
 [Report](./Report.md)
 
